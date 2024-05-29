@@ -1,0 +1,10 @@
+#rider img {
+    padding-block: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    max-width: 20%;
+    max-height: 20%;
+    height: auto;
+    width: auto;
+}
